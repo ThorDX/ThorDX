@@ -3,12 +3,9 @@
 
 I'm a **cybersecurity professional** with over 10 years of experience, currently focused on transitioning into a penetration testing role. I began my career in IT supporting users, managing firewall rules, configuring VPNs, and resolving infrastructure-related issues. I also gained hands-on experience conducting internal penetration testing, along with network monitoring and access control — which helped me build a solid foundation in network and system security.
 
-In recent years, I’ve focused heavily on developing my **offensive security** skills. I’ve taken structured training through platforms like Hack The Box and TryHackMe, and have actively participated in Capture The Flag (CTF) challenges. My hands-on experience includes enumeration, privilege escalation, post-exploitation, and working across both Linux and Windows environments. I'm now seeking to apply these skills in a dedicated pentesting role where I can help organizations identify and remediate real-world threats.
-
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+In recent years, I’ve focused heavily on developing my **offensive security** skills. I’ve taken structured training through platforms like Hack The Box and TryHackMe, and have actively participated in Capture The Flag (CTF) challenges. My hands-on experience includes enumeration, privilege escalation, post-exploitation, and working across both Linux and Windows environments. I'm now seeking to apply these skills in a dedicated pentesting role where I can help organizations identify and remediate real-world threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
