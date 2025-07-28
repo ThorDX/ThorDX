@@ -48,11 +48,10 @@ In recent years, I’ve focused heavily on developing my **offensive security** 
     <img src="https://img.shields.io/badge/-Impacket-EE4C2C?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-
 ## Certifications
 <div>
     <a href="https://www.credly.com/badges/c69a9be8-b47d-459d-b25b-3a72e396bd14/public_url"><img src="https://img.shields.io/badge/-Cisco%20Firepower-EE0000?&style=for-the-badge&logo=cisco&logoColor=white" />
     <a href="https://www.credly.com/badges/23ee3a9f-c128-4028-865b-117b5911c9d4/public_url"><img src="https://img.shields.io/badge/-Splunk-FF7300?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Guardicore-00A6F3?&style=for-the-badge&logo=guardicore&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Fortinet-ED1C24?&style=for-the-badge&logo=fortinet&logoColor=white" />    
+    <img src="https://img.shields.io/badge/-Guardicore-00A6F3?&style=for-the-badge&logo=guardicore&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortinet-ED1C24?&style=for-the-badge&logo=fortinet&logoColor=white" />
 </div>
