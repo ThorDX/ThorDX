@@ -40,12 +40,12 @@ In recent years, I’ve focused heavily on developing my **offensive security** 
 
 ### Exploitation and Post-Exploitation
 <div>
-    <img src="https://img.shields.io/badge/-Hashcat-4C1F70?&style=for-the-badge&logo=hashicorp&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Mimikatz-1F1F1F?&style=for-the-badge&logo=windows&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Ligolo-0E79B2?&style=for-the-badge&logo=gnu&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-BloodHound-720026?&style=for-the-badge&logo=windows&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-SearchSploit-007ACC?&style=for-the-badge&logo=exploitdb&logoColor=white" />  
-    <img src="https://img.shields.io/badge/-Impacket-EE4C2C?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-4C1F70?&style=flat&logo=hashicorp&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Mimikatz-1F1F1F?&style=flat&logo=windows&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Ligolo-0E79B2?&style=flat&logo=gnu&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-BloodHound-720026?&style=flat&logo=windows&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-SearchSploit-007ACC?&style=flat&logo=exploitdb&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Impacket-EE4C2C?&style=flat&logo=python&logoColor=white" />
 </div>
 
 ## Certifications
