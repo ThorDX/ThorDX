@@ -10,14 +10,14 @@ In recent years, I’ve focused heavily on developing my **offensive security** 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Project                                 |
+|----------------------------------------------|----------------------------------------------------|
+| Network Scanning and Enumeration              | <a href="https://tryhackme.com/room/networksecurity">TryHackMe – Network Security</a> |
+| Privilege Escalation (Windows & Linux)        | <a href="https://tryhackme.com/room/linprivesc">TryHackMe – Linux PrivEsc</a> |
+| Active Directory Exploitation                 | <a href="https://tryhackme.com/room/attackingad">TryHackMe – Attacking AD</a> |
+| Exploitation of Common Vulnerabilities        | <a href="https://www.hackthebox.com/">Hack The Box</a> |
+| Capture the Flag (CTF) Solving                | <a href="https://picoctf.org/">PicoCTF</a> |
+| Vulnerability Assessment and Reporting        | Custom Lab using VirtualBox + VulnHub VMs          |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
