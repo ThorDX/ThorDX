@@ -19,39 +19,41 @@ In recent years, I’ve focused heavily on developing my **offensive security** 
 | Capture the Flag (CTF) Solving                | <a href="https://picoctf.org/">PicoCTF</a> |
 | Vulnerability Assessment and Reporting        | Custom Lab using VirtualBox + VulnHub VMs          |
 
+## Penetration Testing Distro
+<div>
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" /><br />
+</div>
+
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Reconnaissance & Scanning
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-10999F?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-1D1D1D?&style=for-the-badge&logo=gnu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DNSrecon-F17A0A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-E22E2A?&style=for-the-badge&logo=Shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-4E5D6C?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-0078D7?&style=for-the-badge&logo=nikto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatWeb-5A5A5A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-2A2A2A?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FFUF-3C6E71?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Endpoint
+### Exploitation and Post-Exploitation
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-4C1F70?&style=for-the-badge&logo=hashicorp&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Mimikatz-1F1F1F?&style=for-the-badge&logo=windows&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Ligolo-0E79B2?&style=for-the-badge&logo=gnu&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-BloodHound-720026?&style=for-the-badge&logo=windows&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-SearchSploit-007ACC?&style=for-the-badge&logo=exploitdb&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Impacket-EE4C2C?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <a href="https://www.credly.com/badges/c69a9be8-b47d-459d-b25b-3a72e396bd14/public_url"><img src="https://img.shields.io/badge/-Cisco%20Firepower-EE0000?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <a href="https://www.credly.com/badges/23ee3a9f-c128-4028-865b-117b5911c9d4/public_url"><img src="https://img.shields.io/badge/-Splunk-FF7300?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Guardicore-00A6F3?&style=for-the-badge&logo=guardicore&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Fortinet-ED1C24?&style=for-the-badge&logo=fortinet&logoColor=white" />    
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
