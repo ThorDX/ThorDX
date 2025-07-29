@@ -27,15 +27,15 @@ In recent years, I’ve focused heavily on developing my **offensive security** 
 
 ### Reconnaissance & Scanning
 <div>
-    <img src="https://img.shields.io/badge/-Nmap-10999F?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netcat-1D1D1D?&style=for-the-badge&logo=gnu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-DNSrecon-F17A0A?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shodan-E22E2A?&style=for-the-badge&logo=Shodan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-4E5D6C?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-0078D7?&style=for-the-badge&logo=nikto&logoColor=white" />
-    <img src="https://img.shields.io/badge/-WhatWeb-5A5A5A?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Gobuster-2A2A2A?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FFUF-3C6E71?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-10999F?&style=flat&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netcat-1D1D1D?&style=flat&logo=gnu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DNSrecon-F17A0A?&style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-E22E2A?&style=flat&logo=Shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-4E5D6C?&style=flat&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-0078D7?&style=flat&logo=nikto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatWeb-5A5A5A?&style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-2A2A2A?&style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FFUF-3C6E71?&style=flat&logoColor=white" />
 </div>
 
 ### Exploitation and Post-Exploitation
@@ -50,8 +50,8 @@ In recent years, I’ve focused heavily on developing my **offensive security** 
 
 ## Certifications
 <div>
-    <a href="https://www.credly.com/badges/c69a9be8-b47d-459d-b25b-3a72e396bd14/public_url"><img src="https://img.shields.io/badge/-Cisco%20Firepower-EE0000?&style=for-the-badge&logo=cisco&logoColor=white" />
-    <a href="https://www.credly.com/badges/23ee3a9f-c128-4028-865b-117b5911c9d4/public_url"><img src="https://img.shields.io/badge/-Splunk-FF7300?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Guardicore-00A6F3?&style=for-the-badge&logo=guardicore&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fortinet-ED1C24?&style=for-the-badge&logo=fortinet&logoColor=white" />
+    <a href="https://www.credly.com/badges/c69a9be8-b47d-459d-b25b-3a72e396bd14/public_url"><img src="https://img.shields.io/badge/-Cisco%20Firepower-EE0000?&style=flat&logo=cisco&logoColor=white" />
+    <a href="https://www.credly.com/badges/23ee3a9f-c128-4028-865b-117b5911c9d4/public_url"><img src="https://img.shields.io/badge/-Splunk-FF7300?&style=flat&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Guardicore-00A6F3?&style=flat&logo=guardicore&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortinet-ED1C24?&style=flat&logo=fortinet&logoColor=white" />
 </div>
