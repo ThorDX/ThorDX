@@ -1,5 +1,5 @@
 # Hello, I'm Felipe Preciado
-<a href="https://www.linkedin.com/in/felipe-preciado-vel%C3%A1zquez-a78470b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/felipe-preciado-vel%C3%A1zquez-a78470b4/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
 
 I'm a **cybersecurity professional** with over 10 years of experience, currently focused on transitioning into a penetration testing role. I began my career in IT supporting users, managing firewall rules, configuring VPNs, and resolving infrastructure-related issues. I also gained hands-on experience conducting internal penetration testing, along with network monitoring and access control — which helped me build a solid foundation in network and system security.
 
@@ -18,13 +18,21 @@ In recent years, I’ve focused heavily on developing my **offensive security** 
 | Capture the Flag (CTF) Solving                | <a href="https://picoctf.org/">PicoCTF</a> |
 | Vulnerability Assessment and Reporting        | Custom Lab using VirtualBox + VulnHub VMs          |
 
-## Penetration Testing Distro
+
+## CTF
+I've actively participated in Capture the Flag (CTF) competitions like picoCTF to sharpen my offensive security skills. These challenges have allowed me to develop hands-on experience with real-world<br />
 <div>
-    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" /><br />
+    <a href="https://play.picoctf.org/users/ThorDX"/></a><img src="https://img.shields.io/badge/-picoCTF-0A0A23?&style=flat&logo=CTFd&logoColor=white" /><br />
+</div>
+
+## Penetration Testing Distro
+I use Kali Linux as my primary penetration testing distribution. It provides a robust set of pre-installed tools for reconnaissance, scanning, exploitation, and post-exploitation.<br />
+<div>
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=flat&logo=Kali-Linux&logoColor=white" /><br />
 </div>
 
 ## Tools
-
+I work with a wide range of penetration testing tools tailored to each phase of an engagement — from reconnaissance and scanning to exploitation and reporting.<br />
 ### Reconnaissance & Scanning
 <div>
     <img src="https://img.shields.io/badge/-Nmap-10999F?&style=flat&logo=Nmap&logoColor=white" />
